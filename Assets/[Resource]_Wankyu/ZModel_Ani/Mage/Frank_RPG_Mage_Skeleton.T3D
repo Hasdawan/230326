@@ -1,0 +1,4 @@
+Begin Object Class=/Script/Engine.Skeleton Name="Frank_RPG_Mage_Skeleton"
+   BoneTree(116)=()
+   PreviewSkeletalMesh=/Game/Frank_RPG_Mage/Skeletal_Meshes/Frank_RPG_Mage.Frank_RPG_Mage
+End Object

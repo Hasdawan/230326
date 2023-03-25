@@ -1,0 +1,4 @@
+Begin Object Class=/Script/Engine.Skeleton Name="Frank_Archer_Skeleton"
+   BoneTree(94)=()
+   PreviewSkeletalMesh=/Game/Frank_RPG_Archer/Skeletal_Meshes/Frank_Archer.Frank_Archer
+End Object

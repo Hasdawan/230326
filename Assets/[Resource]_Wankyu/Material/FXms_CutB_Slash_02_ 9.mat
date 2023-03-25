@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FXms_CutB_Slash_02_ 9
+  m_Shader: {fileID: 4800000, guid: 5011fd66395bd9f4abd781d24438e2b1, type: 3}
+  m_ValidKeywords:
+  - _0_1_CUTSTOM__ON
+  m_InvalidKeywords:
+  - _0_2_CUTSTOM_ON_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _1_1_Main_Tex:
+        m_Texture: {fileID: 2800000, guid: 4fcb02c378b66164ca650f36df60d93c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _1_2_Distort_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.65, y: 1.5}
+        m_Offset: {x: 0, y: 0}
+    - _2_1_Mask_Tex:
+        m_Texture: {fileID: 2800000, guid: de5f13bdff1247c40a212a0afe1b388e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _2_Dissolve_Cut_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.63, y: 2.5}
+        m_Offset: {x: 0, y: 0}
+    - _2_Mask_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _3_1_Dissolve_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _3_Dissolve_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _3_Sub_Tex:
+        m_Texture: {fileID: 2800000, guid: 32778b3b66095754facfbd3d8eaeee6c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _4_1_SubMask_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _4_SubMask_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Dissolve_Tex:
+        m_Texture: {fileID: 2800000, guid: 3cbb0bdb92d0a0346894f190bc38e284, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Tex:
+        m_Texture: {fileID: 2800000, guid: de5f13bdff1247c40a212a0afe1b388e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_Tex:
+        m_Texture: {fileID: 2800000, guid: de5f13bdff1247c40a212a0afe1b388e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubMask_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _0_1_Cutstom: 0
+    - _0_1_Cutstom_: 1
+    - _0_1_Cutstom_1: 0
+    - _0_1_Cutstom__On: 1
+    - _0_1_Tex_Alpha: 1
+    - _0_2_Cutstom_On: 1
+    - _0_BlendMode: 10
+    - _0_Change_Custom2: 1
+    - _0_Change_Custom_1: 0
+    - _0_Custom_Use: 1
+    - _0_On_Fresnel_Alpha: 0
+    - _0_Use_Custom: 1
+    - _3_1_SubTex_Alpha: 0
+    - _4_2_On_Fresnel_Alpha: 0
+    - _5_On_Fresnel_Alpha: 0
+    - _AlphaCutoff: 0.5
+    - _BlendMode: 10
+    - _Change_Custom_1: 1
+    - _Change_Dissolve: 0
+    - _Delay: 0
+    - _DisTexRot: 0
+    - _Dissolve_Cutout: 0.09814911
+    - _Dissolve_Math: 0
+    - _Dissort_UPanner: 0
+    - _Dissort_VPanner: 0
+    - _Distortamount: 0
+    - _ExtNoise_Uspeed: 0
+    - _ExtNoise_Vspeed: 0
+    - _Fresnel_Pow: 1
+    - _Fresnel_Str: 0
+    - _Hardness: 0.856
+    - _MainTexRot: 0
+    - _MainTex_Type: 0
+    - _MainTex_USpeed: 0
+    - _MainTex_VSpeed: 0
+    - _Main_Channel: 1
+    - _Main_Pow: 1
+    - _Main_U_Clamp: 1
+    - _Main_V_Clamp: 0
+    - _MaskTex_USpeed: 0
+    - _MaskTex_VSpeed: 0
+    - _On_Fresnel_Alpha: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Smoothness: 0.697
+    - _Use_CustomData1: 1
+    - _Use_CustomData2: 0
+    - _ZTest: 4
+    - _ZWrite: 0
+    m_Colors:
+    - _1_3_MainDistort_Panner: {r: 0, g: 0, b: 0, a: 0}
+    - _1_MainDistort_Panner: {r: 0, g: 0, b: 0.18, a: 0}
+    - _2_DisSub_Panner: {r: 0, g: 0, b: 0, a: 0}
+    - _Dis_Noise_Panner: {r: 0, g: 0.1, b: 0, a: 0.05}
+    - _Dissolve_N1N2_Panner: {r: 0, g: 0.1, b: 0, a: 0.05}
+    - _EdgeColor: {r: 15.804736, g: 4.0649223, b: 0.37275317, a: 0}
+    - _Edge_Color: {r: 0.01775543, g: 0.051003337, b: 0.1792453, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FresnelColor: {r: 1.4980392, g: 1.4980392, b: 1.4980392, a: 1}
+    - _MainDistort_Panner: {r: 0, g: 0, b: 0, a: 0}
+    - _N1N2_Panner: {r: 0, g: 0.1, b: 0, a: 0.05}
+    - _N1_TileOffset: {r: 1, g: 1, b: 0, a: 0}
+    - _N2_TileOffset: {r: 0.5, g: 1, b: 0, a: 0}
+    - _NoiseTex2_TilingXYOffsetZW1: {r: 0.5, g: 1, b: 0, a: 0}
+    - _NoiseTex_TilingXYOffsetZW1: {r: 1, g: 1, b: 0, a: 0}
+    - _Noise_Panner: {r: 0, g: 0.1, b: 0, a: 0.05}
+    - _TileOffset_Noise_1: {r: 1, g: 1, b: 0, a: 0}
+    - _TileOffset_Noise_2: {r: 0.5, g: 1, b: 0, a: 0}
+    - _Tint: {r: 0, g: 0.08058164, b: 0.38679248, a: 0}
+    - _Vector0: {r: 1, g: 0, b: 3, a: -1.03}
+    - _Vector1: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

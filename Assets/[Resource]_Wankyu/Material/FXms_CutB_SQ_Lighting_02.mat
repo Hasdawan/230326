@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FXms_CutB_SQ_Lighting_02
+  m_Shader: {fileID: 4800000, guid: 5011fd66395bd9f4abd781d24438e2b1, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _1_1_Main_Tex:
+        m_Texture: {fileID: 2800000, guid: ada6ebbe712b005469ee42f8e4d2b3ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _1_2_Distort_Tex:
+        m_Texture: {fileID: 2800000, guid: 9da82e7b07c747a47975bd39ef5e03db, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _2_1_Mask_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _2_Dissolve_Cut_Tex:
+        m_Texture: {fileID: 2800000, guid: 8561129c6cf0cc44690b04e5e5da62e0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _3_1_Dissolve_Tex:
+        m_Texture: {fileID: 2800000, guid: 22e5d2cc6c2b8cb4889448dc539c7aef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _3_Sub_Tex:
+        m_Texture: {fileID: 2800000, guid: 8561129c6cf0cc44690b04e5e5da62e0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _4_1_SubMask_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _4_Mask_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DistortTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 91fe42cd903c32e40be87207164964b1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SubTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _0_1_Cutstom_: 0
+    - _0_1_Cutstom__On: 0
+    - _0_1_Tex_Alpha: 1
+    - _0_2_Cutstom_On: 0
+    - _0_BlendMode: 1
+    - _0_Change_Custom2: 1
+    - _0_Change_Custom_1: 1
+    - _0_Custom_Use: 0
+    - _0_Use_Custom: 0
+    - _3_1_SubTex_Alpha: 0
+    - _4_2_On_Fresnel_Alpha: 0
+    - _AlphaClip: 0
+    - _AlphaCutoff: 0.5
+    - _Blend: 0
+    - _BlendMode: 1
+    - _Brightness: 1
+    - _BumpScale: 1
+    - _Change_Dissolve: 0
+    - _Cull: 2
+    - _Custom_Ins: 1
+    - _Cutoff: 0.5
+    - _Delay: 0.01
+    - _DisTexRot: 2
+    - _Dissolve_Cutout: 1
+    - _Dissolve_Math: 0
+    - _Distortamount: 0
+    - _DstBlend: 0
+    - _EnvironmentReflections: 1
+    - _Fresnel_Pow: 1
+    - _Fresnel_Str: 0
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _InvFade: 1
+    - _MainTexRot: 0
+    - _MainTex_Type: 0
+    - _Main_Channel: 0
+    - _Main_Pow: 1
+    - _Main_U_Clamp: 0
+    - _Main_V_Clamp: 0
+    - _Metallic: 0
+    - _OcclusionStrength: 1
+    - _Pow: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 1
+    m_Colors:
+    - _1_3_MainDistort_Panner: {r: 0, g: 0, b: 0, a: 0}
+    - _1_MainDistort_Panner: {r: 0, g: 0, b: 0, a: 0}
+    - _2_DisSub_Panner: {r: 0, g: 0, b: 0, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EdgeColor: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 0}
+    - _Edge_Color: {r: 5.3403134, g: 5.3403134, b: 5.3403134, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FresnelColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainDistort_Panner: {r: 0, g: 0, b: 0, a: 0}
+    - _MainpannerUVDistortpannerUV: {r: 0, g: 0, b: 0, a: 0}
+    - _N1N2_Panner: {r: 0, g: 0.1, b: 0, a: 0.05}
+    - _N1_TileOffset: {r: 1, g: 1, b: 0, a: 0}
+    - _N2_TileOffset: {r: 0.5, g: 1, b: 0, a: 0}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _SubpannerUVDissolvepanner: {r: 0, g: 0, b: 0, a: 0}
+    - _Tint: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 1}
+    - _tint: {r: 8, g: 8, b: 8, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &8479577746062115697
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 2

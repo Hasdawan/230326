@@ -1,0 +1,4 @@
+Begin Object Class=/Script/Engine.Skeleton Name="SK_Frank_RPG_Katana_Skeleton"
+   BoneTree(76)=()
+   PreviewSkeletalMesh=/Game/Frank_RPG_Katana/Skeletal_Meshes/Frank_RPG_Katana_UE4_Sk.Frank_RPG_Katana_UE4_Sk
+End Object
